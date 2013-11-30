@@ -1,4 +1,3 @@
-# vt100-colors
 
 Since there is enough packages in [pipy][pipy] dealing with the color output in terminal which I discovered after my own implimentation and found mine was cooler!
 
@@ -30,4 +29,3 @@ next occurrence of SGR in the data stream, depending on the setting of the GRAPH
 [ecma]: http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-048.pdf
 [pipy]: https://pypi.python.org/pypi
 [screenshot]: https://raw.github.com/haude/vt100-colors/dump/images/screenshot.png
-[ansi]: https://en.wikipedia.org/wiki/ANSI_escape_code#Colors
